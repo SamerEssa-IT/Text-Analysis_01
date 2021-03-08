@@ -97,3 +97,7 @@ and returns the best split of the data, aswell as the model it was fitted on and
 ![SCREEN~1](https://user-images.githubusercontent.com/74178017/108269458-4c935f80-716e-11eb-878f-2e119304aee9.PNG)
 
 
+## Evaluation of the prediction 
+
+![resukt_lstm](https://user-images.githubusercontent.com/74178017/110324430-36aee700-8016-11eb-839c-a5241aeed9be.png)
+
